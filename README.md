@@ -1,2 +1,2 @@
-# LLM-Graph-Signal-Processing
-Code associated with the paper “A Graph Signal Processing Perspective on Numerical Sequence Representations in LLM In-Context Learning”
+# A Graph Signal Processing Perspective on Numerical Sequence Representations in LLM In-Context Learning
+This repository includes Jupyter notebooks and generated datasets used to reproduce all experiments reported in the paper *“A Graph Signal Processing Perspective on Numerical Sequence Representations in LLM In-Context Learning”* by Jiajun Bao, Zihao Qi, Toni J.B. Liu, Gurbir Arora, Raphaël Sarfati, Nicolas Boullé, and Christopher J. Earls. The code and generated datasets will be released publicly upon publication of this work.
